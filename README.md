@@ -1,4 +1,4 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+## DART + FLUTTER
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+* Clean Code: 
+1. https://github.com/williambarreiro/clean-code-dart-en/tree/fix_final_variables
