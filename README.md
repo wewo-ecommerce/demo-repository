@@ -21,3 +21,7 @@ https://github.com/donnemartin/system-design-primer
 
 ## Khoa học máy tính
 * https://github.com/ossu/computer-science
+
+## Tham khảo cho wewo-backend
++ https://github.com/numq/ecommerce-backend
++ https://github.com/pallavi-shekhar/amazon-ecommerce-clone-backend
