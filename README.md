@@ -2,9 +2,10 @@
 
 * Clean Code: 
 https://github.com/williambarreiro/clean-code-dart-en/tree/fix_final_variables
-
 * ROADMAP
 https://roadmap.sh/flutter
+* awesome
+https://github.com/Solido/awesome-flutter
 
 ## Node.js
 awesome: https://github.com/sindresorhus/awesome-nodejs
