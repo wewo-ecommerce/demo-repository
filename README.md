@@ -19,6 +19,9 @@ https://github.com/trekhleb/javascript-algorithms
 https://github.com/anonystick  &  
 https://www.youtube.com/@anonystick
 
+## Data Engineering
+(https://github.com/andkret/Cookbook)
+
 ## HỆ THỐNG
 * Cách thiết kế hệ thống quy mô lớn
 https://github.com/donnemartin/system-design-primer
