@@ -8,7 +8,7 @@ https://roadmap.sh/flutter
 https://github.com/Solido/awesome-flutter
 
 ## Node.js
-awesome: https://github.com/sindresorhus/awesome-nodejs
+* awesome: https://github.com/sindresorhus/awesome-nodejs
 
 ## Javascript
 * Clean Code:
@@ -22,7 +22,7 @@ https://github.com/anonystick  &
 https://www.youtube.com/@anonystick
 
 ## Data Engineering
-https://github.com/andkret/Cookbook
+* https://github.com/andkret/Cookbook
 
 ## HỆ THỐNG
 * Cách thiết kế hệ thống quy mô lớn
