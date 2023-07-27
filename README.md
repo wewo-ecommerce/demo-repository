@@ -27,6 +27,7 @@ https://www.youtube.com/@anonystick
 ## HỆ THỐNG
 * Cách thiết kế hệ thống quy mô lớn
 https://github.com/donnemartin/system-design-primer
+* https://github.com/binhnguyennus/awesome-scalability
 
 ## Khoa học máy tính
 * https://github.com/ossu/computer-science
